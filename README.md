@@ -14,7 +14,10 @@ Generate a list of hooks used in your plugin or theme.
 
 ## Requirements
 * This script uses `ggrep` which you can install using homebrew.
-* this script was built for use on a Mac, not sure how well it works on Windows.
+* This script was built for use on a Mac, not sure how well it works on Windows.
+
+## Example
+Here's [a doc](https://docs.iconicwp.com/article/196-available-hooks-actions-and-filters) for my [WooCommerce Delivery Slots](https://iconicwp.com/products/woocommerce-delivery-slots/) plugin which I used this script on.
 
 ## Contribute
 See anything that could be better? Submit an issue, or even better, a PR!
